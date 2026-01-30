@@ -57,4 +57,4 @@ pip install -r requirements.txt
 - Submit PRs with clear descriptions and reproduction steps.
 
 **License**
-- Apache-2.0
+- MIT
