@@ -1,7 +1,7 @@
 # attentionless_streaming_asr
 
 ## Overview
-This directory contains a compact codebase for experimenting with "attentionless" streaming ASR architectures used in the paper **"Do we really need Self-Attention for Streaming Automatic Speech Recognition?"**. It is focused on training, model definitions and dataset preparation utilities used in our experiments.
+This directory contains a compact codebase for experimenting with "attentionless" streaming ASR architectures used in the paper **["Do we really need Self-Attention for Streaming Automatic Speech Recognition?"](https://arxiv.org/abs/2601.19960)**. It is focused on training, model definitions and dataset preparation utilities used in our experiments.
 
 **What is in this folder**
 - `train.py` — main training entrypoint.
